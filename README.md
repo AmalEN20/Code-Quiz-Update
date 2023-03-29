@@ -6,8 +6,12 @@
 ### This is a Code quiz using CSS, Javascript Dynamic and non dynamic elements and a countdown application.
 
 
-Desktop screen:
-
+Desktop screen: 
+![image](https://user-images.githubusercontent.com/116880367/228471425-33267a6d-e8a7-44aa-a838-3cf8cd3d4857.png)
+Question and Answers:
+![image](https://user-images.githubusercontent.com/116880367/228471222-64620d54-1fa5-4940-a53d-71775c37a0be.png)
+Highscores: 
+![image](https://user-images.githubusercontent.com/116880367/228471650-51f14177-513a-4a62-98d5-b9e63f00c21a.png)
 
 ## 2. How to Get There
 
